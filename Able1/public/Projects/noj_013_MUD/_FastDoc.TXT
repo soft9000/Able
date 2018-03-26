@@ -1,0 +1,5 @@
+.REM Directory documentation.
+
+Tools to demonstrate the way to easily update a site
+full of documents multiple times (MUD), as well as to 
+detect and to translate comment tags found therein (DIRT).

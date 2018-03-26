@@ -1,0 +1,7 @@
+.REM Directory documentation.
+Merge the content of two files into a single line.
+Usage: MkBat "command" file_left file_right
+
+
+
+

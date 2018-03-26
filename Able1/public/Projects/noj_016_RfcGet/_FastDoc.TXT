@@ -1,0 +1,9 @@
+.REM Directory documentation.
+
+RfcGet is desgned to do just that - To download anything
+that has an RFC definition for it. Initial support includes
+implementaitons for POP, FTP, NNTP, and HTTP.
+
+Very much a work in progress, it has not been added yet.
+
+
