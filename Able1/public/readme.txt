@@ -1,16 +1,13 @@
-Mostly for WIN32, but also has some significant work on Linux.
+Mostly for C++98 on Windows, but also has some significant 
+core-updates for POSIX.
 
-I also have my sights set on porting a lot of software to 
-Mac OSX, so expect to see some very real traction on that 
-platform soon.
-
-Note that this zip contains the core fastjob library only. 
+Note that this zip contains the core support library only. 
 The examples and demonstration tools described in the 
 introduction are maintained spereately.
 
 
-Projects in this directory have been built using various 
-compilers and tool sets.  The list includes:
+./Projects were built using various compilers and tool 
+sets of the day. The list includes:
 
    Microsoft Visual Studio.NET
    Microsoft Visual C++ 6
@@ -19,9 +16,5 @@ compilers and tool sets.  The list includes:
    Eclipse 3.0 / G++ (CDT)
    Eclipse 3.0 / DJGPP (CDT + a few hacks of my own)
 
-If you have one of these tool sets, then you should be able
-to easily re-create any of these projects to use the code.
+You should be able to easily re-create anything here. 
 Let us know if you have any trouble.
-
-
-See _Soft9000.com.txt for more information.
