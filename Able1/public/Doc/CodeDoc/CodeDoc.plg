@@ -1,0 +1,35 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: CodeDoc - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ProfNagy\LOCALS~1\Temp\RSP38.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /FR"Debug/" /Fp"Debug/CodeDoc.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\USR\code\Able1\public\Doc\CodeDoc\CodeDoc.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ProfNagy\LOCALS~1\Temp\RSP38.tmp" 
+Creating temporary file "C:\DOCUME~1\ProfNagy\LOCALS~1\Temp\RSP39.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/CodeDoc.pdb" /debug /machine:I386 /out:"d:\bin\CodeDoc.EXE" /pdbtype:sept 
+.\Debug\CodeDoc.obj
+.\Debug\main.obj
+..\..\lib\vc6\fjsl.lib
+]
+Creating command line "link.exe @C:\DOCUME~1\ProfNagy\LOCALS~1\Temp\RSP39.tmp"
+<h3>Output Window</h3>
+Compiling...
+CodeDoc.cpp
+D:\USR\code\Able1\public\Doc\CodeDoc\CodeDoc.cpp(432) : error C4716: 'CodeDoc::CodeFormatter::FormatCode' : must return a value
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+CodeDoc.EXE - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

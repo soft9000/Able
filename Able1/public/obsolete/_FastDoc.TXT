@@ -1,0 +1,14 @@
+.REM Directory documentation. Visit Soft9000.com.
+Production quality classes, as used in The Quote For Today 
+and our News*NET products. 
+
+These classes are OBSOLETE, but a lot of things still use 
+them. Will kep them hereuntil we have migrated everything
+over to the more modern 'stuff.
+
+Exception is the stdnoj project - Included here so I can 
+maintain it out of the pure goodness of my heart.
+
+
+
+

@@ -1,0 +1,9 @@
+.REM Directory documentation. Visit Soft9000.com.
+This is the final resting place for fastjob documentation,
+as presented to other Noj developers. Support files for 
+generating graphics, html (etc.) should not be included 
+here.
+
+Feel free to create sub directories as needed, but 
+please try to keep any URL and / or link references 
+relative to this folder.
