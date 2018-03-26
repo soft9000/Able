@@ -1,0 +1,52 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: noj_008_dbSimple - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~2\LOCALS~1\Temp\RSP84.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /FR"Debug/" /Fp"Debug/noj_008_dbSimple.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\USR\code\mynoj\stdnoj\sharenoj\noj_008_dbSimple\main.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~2\LOCALS~1\Temp\RSP84.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~2\LOCALS~1\Temp\RSP85.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/dbSimple.pdb" /debug /machine:I386 /out:"dbSimple.exe" /pdbtype:sept 
+.\Debug\main.obj
+..\..\stdnoj\lib\vc6\stdnoj_sl.lib
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~2\LOCALS~1\Temp\RSP85.tmp"
+<h3>Output Window</h3>
+Compiling...
+main.cpp
+c:\program files\microsoft visual studio\vc98\include\vector(48) : warning C4786: '??0?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@QAE@IABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@1@ABV?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@1@@Z' : identifier was truncated to '255' characters in the browser information
+        d:\usr\code\mynoj\stdnoj\sharenoj\noj_008_dbsimple\main.cpp(41) : see reference to class template instantiation 'std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >' being compiled
+c:\program files\microsoft visual studio\vc98\include\vector(61) : warning C4786: '??0?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@QAE@PBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@1@0ABV?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@1@@Z' : identifier was truncated to '255' characters in the browser information
+        d:\usr\code\mynoj\stdnoj\sharenoj\noj_008_dbsimple\main.cpp(41) : see reference to class template instantiation 'std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >' being compiled
+c:\program files\microsoft visual studio\vc98\include\vector(103) : warning C4786: '?rbegin@?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@QAE?AV?$reverse_iterator@PAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V12@AAV12@PAV12@H@2@XZ' : identifier was truncated to '255' characters in the browser information
+        d:\usr\code\mynoj\stdnoj\sharenoj\noj_008_dbsimple\main.cpp(41) : see reference to class template instantiation 'std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >' being compiled
+c:\program files\microsoft visual studio\vc98\include\vector(105) : warning C4786: '?rbegin@?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@QBE?AV?$reverse_iterator@PBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V12@ABV12@PBV12@H@2@XZ' : identifier was truncated to '255' characters in the browser information
+        d:\usr\code\mynoj\stdnoj\sharenoj\noj_008_dbsimple\main.cpp(41) : see reference to class template instantiation 'std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >' being compiled
+c:\program files\microsoft visual studio\vc98\include\vector(107) : warning C4786: '?rend@?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@QAE?AV?$reverse_iterator@PAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V12@AAV12@PAV12@H@2@XZ' : identifier was truncated to '255' characters in the browser information
+        d:\usr\code\mynoj\stdnoj\sharenoj\noj_008_dbsimple\main.cpp(41) : see reference to class template instantiation 'std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >' being compiled
+c:\program files\microsoft visual studio\vc98\include\vector(108) : warning C4786: '?rend@?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@QBE?AV?$reverse_iterator@PBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V12@ABV12@PBV12@H@2@XZ' : identifier was truncated to '255' characters in the browser information
+        d:\usr\code\mynoj\stdnoj\sharenoj\noj_008_dbsimple\main.cpp(41) : see reference to class template instantiation 'std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >' being compiled
+d:\usr\code\mynoj\stdnoj\sharenoj\noj_008_dbsimple\main.cpp(55) : warning C4786: 'std::reverse_iterator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > const *,std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const &,std::basic_string<char,std::char_traits<char>,std::allocator<char> > const *,int>' : identifier was truncated to '255' characters in the debug information
+d:\usr\code\mynoj\stdnoj\sharenoj\noj_008_dbsimple\main.cpp(55) : warning C4786: 'std::reverse_iterator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > *,std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::basic_string<char,std::char_traits<char>,std::allocator<char> > &,std::basic_string<char,std::char_traits<char>,std::allocator<char> > *,int>' : identifier was truncated to '255' characters in the debug information
+d:\usr\code\mynoj\stdnoj\sharenoj\noj_008_dbsimple\main.cpp(36) : warning C4786: '__unwindfunclet$?Main@PortableDataApplication@@QAE_NABV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@AAV?$basic_ostream@DU?$char_traits@D@std@@@3@@Z$0' : identifier was truncated to '255' characters in the debug information
+c:\program files\microsoft visual studio\vc98\include\vector(39) : warning C4786: 'std::vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >' : identifier was truncated to '255' characters in the debug information
+c:\program files\microsoft visual studio\vc98\include\vector(60) : warning C4786: 'std::vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::~vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >' : identifier was truncated to '255' characters in the debug information
+Linking...
+   Creating library dbSimple.lib and object dbSimple.exp
+LINK : warning LNK4098: defaultlib "LIBC" conflicts with use of other libs; use /NODEFAULTLIB:library
+
+
+
+<h3>Results</h3>
+dbSimple.exe - 0 error(s), 12 warning(s)
+</pre>
+</body>
+</html>

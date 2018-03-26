@@ -1,0 +1,46 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: EzLog - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\PROFES~1\LOCALS~1\Temp\RSP5F.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /FR"EzLog___Win32_Debug/" /Fo"EzLog___Win32_Debug/" /Fd"EzLog___Win32_Debug/" /FD /GZ /c 
+"D:\USR\CODE\ABLE1\PUBLIC\a1extra\StdLog\EzLog.cpp"
+"D:\USR\CODE\ABLE1\PUBLIC\PROJECTS\NOJ_010_EZLOG\EZLOG\main.cpp"
+"D:\USR\CODE\ABLE1\PUBLIC\a1extra\StdLog\StdLog.cpp"
+"D:\USR\CODE\ABLE1\PUBLIC\a1extra\Formatting\WordWrap.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\PROFES~1\LOCALS~1\Temp\RSP5F.tmp" 
+Creating temporary file "C:\DOCUME~1\PROFES~1\LOCALS~1\Temp\RSP60.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"EzLog___Win32_Debug/EzLog.pdb" /debug /machine:I386 /out:"EzLog___Win32_Debug/EzLog.exe" /pdbtype:sept 
+.\EzLog___Win32_Debug\EzLog.obj
+.\EzLog___Win32_Debug\main.obj
+.\EzLog___Win32_Debug\StdLog.obj
+.\EzLog___Win32_Debug\WordWrap.obj
+..\..\..\lib\vc6\fjsl.lib
+]
+Creating command line "link.exe @C:\DOCUME~1\PROFES~1\LOCALS~1\Temp\RSP60.tmp"
+<h3>Output Window</h3>
+Compiling...
+EzLog.cpp
+main.cpp
+StdLog.cpp
+WordWrap.cpp
+Generating Code...
+Linking...
+Creating command line "bscmake.exe /nologo /o"EzLog___Win32_Debug/EzLog.bsc"  .\EzLog___Win32_Debug\EzLog.sbr .\EzLog___Win32_Debug\main.sbr .\EzLog___Win32_Debug\StdLog.sbr .\EzLog___Win32_Debug\WordWrap.sbr"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+EzLog.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

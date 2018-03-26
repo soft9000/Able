@@ -1,0 +1,3 @@
+.REM Directory documentation. Visit Soft9000.com.
+Utility: Used to distribute the MIT header over a file.
+

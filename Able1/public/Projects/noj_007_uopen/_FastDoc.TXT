@@ -1,0 +1,27 @@
+.REM Directory documentation. Visit Soft9000.com.
+
+This NOJ was written to get around an annoying 
+problem - calling explorer from the WIN32 command-line
+was somehow disabled on my machine! 
+
+I cobbled this together quickly to get around the hassle
+when needing to "explore" a folder or URL quickly.
+
+This NOJ also works as a neat little way to load a 
+program from AUTOEXE.INF on a CD-ROM - Just add 
+something like-
+
+UOPEN=\MYPATH\MYFILE.HTML
+
+... after ...
+
+[autoexec]
+open="UOPEN.EXE"
+
+
+-In you AUTOEXEC.INF
+
+
+Enjoy!
+
+Rn

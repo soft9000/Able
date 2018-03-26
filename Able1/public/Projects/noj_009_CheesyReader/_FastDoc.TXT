@@ -1,0 +1,31 @@
+.REM Directory documentation. Visit Soft9000.com.
+
+This NOJ was written to allows me to read, bookmark,
+and extract quotations from text files. Just like a
+book.
+
+"Just like a book" means that text is formatted into
+pages. Pages that allow us to track reading progress, 
+as well as to exchange book references with others.
+
+Why Bother?
+-----------
+Because we use everything from desktops to PDAs 
+(-that span 20 years of technology - HP 100/200LX, 
+Zaurus 5600,Jornada 720...) the reader is designed 
+to work using plain old ASCII - no kerned fonts, no 
+graphical support - deleciously cheesy!
+
+Because WIN32 is very popular, a graphical interface
+is included. Because console applications are more 
+portable (especially when you have a DOS emulator), 
+a DOS reading utility is also provided.
+
+Whats Next?
+-----------
+I will be converting hundreds of public domain tomes 
+and electronic texts for us to read. If you are a 
+civic minded sort of person, then you can share the
+cheesy books that you create with this program 
+family, too.
+

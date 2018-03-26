@@ -1,0 +1,48 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CR32", "CR32.vcproj", "{26C8B632-9729-4629-9111-A1D39EBC87B6}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CRLIB", "..\CRLIB\CRLIB.vcproj", "{53356211-6540-407E-B37B-0E1E2E73D71D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B347D46E-1861-462E-8E42-2A24468508CF} = {B347D46E-1861-462E-8E42-2A24468508CF}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CRTextReader", "..\CRTextReader\CRTextReader.vcproj", "{9B2092D3-0BC6-4C09-A7DD-B2908AE8DB3D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{53356211-6540-407E-B37B-0E1E2E73D71D} = {53356211-6540-407E-B37B-0E1E2E73D71D}
+		{B347D46E-1861-462E-8E42-2A24468508CF} = {B347D46E-1861-462E-8E42-2A24468508CF}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stdnoj_sl", "..\\fastjob\lib\vsnet3\fjsl\fjsl.vcproj", "{B347D46E-1861-462E-8E42-2A24468508CF}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{26C8B632-9729-4629-9111-A1D39EBC87B6}.Debug.ActiveCfg = Debug|Win32
+		{26C8B632-9729-4629-9111-A1D39EBC87B6}.Debug.Build.0 = Debug|Win32
+		{26C8B632-9729-4629-9111-A1D39EBC87B6}.Release.ActiveCfg = Release|Win32
+		{26C8B632-9729-4629-9111-A1D39EBC87B6}.Release.Build.0 = Release|Win32
+		{53356211-6540-407E-B37B-0E1E2E73D71D}.Debug.ActiveCfg = Debug|Win32
+		{53356211-6540-407E-B37B-0E1E2E73D71D}.Debug.Build.0 = Debug|Win32
+		{53356211-6540-407E-B37B-0E1E2E73D71D}.Release.ActiveCfg = Release|Win32
+		{53356211-6540-407E-B37B-0E1E2E73D71D}.Release.Build.0 = Release|Win32
+		{9B2092D3-0BC6-4C09-A7DD-B2908AE8DB3D}.Debug.ActiveCfg = Debug|Win32
+		{9B2092D3-0BC6-4C09-A7DD-B2908AE8DB3D}.Debug.Build.0 = Debug|Win32
+		{9B2092D3-0BC6-4C09-A7DD-B2908AE8DB3D}.Release.ActiveCfg = Release|Win32
+		{9B2092D3-0BC6-4C09-A7DD-B2908AE8DB3D}.Release.Build.0 = Release|Win32
+		{B347D46E-1861-462E-8E42-2A24468508CF}.Debug.ActiveCfg = Debug|Win32
+		{B347D46E-1861-462E-8E42-2A24468508CF}.Debug.Build.0 = Debug|Win32
+		{B347D46E-1861-462E-8E42-2A24468508CF}.Release.ActiveCfg = Release|Win32
+		{B347D46E-1861-462E-8E42-2A24468508CF}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+.REM Directory documentation. Visit Soft9000.com.
+dbSimple is a database program. The simplicity
+of using textual interfaces allows for maximum portability
+between palmtops, desktops, and operating systems.

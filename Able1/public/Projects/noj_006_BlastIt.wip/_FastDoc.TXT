@@ -1,0 +1,6 @@
+.REM Directory documentation. Visit Soft9000.com.
+Noj: Class to query and / or remove files based 
+upon a list of user-defined suffixes. 
+
+Porting to fastjob. WIP == work in progress!
+

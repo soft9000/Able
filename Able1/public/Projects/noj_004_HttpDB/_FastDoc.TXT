@@ -1,0 +1,6 @@
+.REM Directory documentation. Visit Soft9000.com.
+Program: Portable HTTP server log repository and query database.
+Command line interface. Uses fastjob technologies. Primitive, 
+but effective. Needs to have the indexing technology added to it.
+
+
