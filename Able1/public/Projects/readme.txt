@@ -1,4 +1,4 @@
-.REM Directory documentation. Visit Soft9000.com for more info.
+Directory documentation. Visit Soft9000.com for more info.
 StdNoj Projects: A place for demonstrations, 
 community Noj code, and sample project files.
 
@@ -19,6 +19,3 @@ Let us know if you have any trouble.
 o projects is where we share our neat odd jobs. I have
 hundreds. They will surface here as time allows. 
 Feel free to submit yours!
-
-o fastjob is where the "Neat Odd Job" library lives.
-See the text files there for more information.
