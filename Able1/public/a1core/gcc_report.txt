@@ -1,0 +1,223 @@
+Compilation Errors Reported  - none if empty
+===========================================
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
+Zstr.cpp:1560: error: `wstring' does not name a type
+Zstr.cpp:1574: error: expected `,' or `...' before '&' token
+Zstr.cpp:1575: error: ISO C++ forbids declaration of `wstring' with no type
+Zstr.cpp:1576: error: `wstr' undeclared (first use this function)
+Zstr.cpp:1576: error: (Each undeclared identifier is reported only once for each function it appears in.)
+../core/ZStr.hpp:238: error: `wstring' does not name a type
+../core/ZStr.hpp:239: error: expected `,' or `...' before '&' token
+../core/ZStr.hpp:239: error: ISO C++ forbids declaration of `wstring' with no type
+../core/Node.hpp:91: error: expected `,' or `...' before '.' token
+../core/Node.hpp:92: error: expected `,' or `...' before '.' token
+../core/Node.hpp:93: error: expected `,' or `...' before '.' token
