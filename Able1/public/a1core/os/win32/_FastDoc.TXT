@@ -1,0 +1,5 @@
+.REM Directory documentation. Visit Soft9000.com.
+WIN32 support. While the most complete of all of the platform supported 
+at this point, it could also stand a little clean up. Production quality, 
+as its ancestors are part several commercial products.
+

@@ -1,0 +1,3 @@
+.REM Directory documentation. Visit Soft9000.com.
+MSDOS support. See notes in the WIN32 directory.
+
