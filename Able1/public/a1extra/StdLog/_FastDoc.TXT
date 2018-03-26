@@ -1,0 +1,6 @@
+.REM Directory documentation. Visit Soft9000.com.
+StdLog is OBSOLETE. 
+
+Re-factored and moved into the Able1 namespace as ExeLog and JulianLog.
+
+

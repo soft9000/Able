@@ -1,0 +1,20 @@
+.REM Directory documentation. Visit Soft9000.com.
+As a parsing framework, this class is designed to parse tag 
+laden data. 
+
+The parsing frameworks is solid enough to use for a design 
+pattern for generic parsing of just about any tagged 
+convention (INI files, HP or Honeywell monitored device 
+databases, etc.)
+
+As an XML parser, it hosts an event model. Unlike SAX or DOM, 
+this model is level based. Newer innovations (like the pathing
+concepts of XPATH) could easily be added to augment this level 
+parsing concept, but the framework probably does not need to
+be changed.
+
+I have several other parsing frameworks available. Feel free 
+to contact me if you want to geek out...
+
+;)
+

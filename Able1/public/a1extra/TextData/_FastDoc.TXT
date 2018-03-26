@@ -1,0 +1,10 @@
+.REM Directory documentation.
+
+This is a place to store common text reading, writing, 
+and manipulation routines. Expect classes here to read
+and otherwise manage data from CSV, TAB, SDF, HTML, XML, 
+and other common data representations. 
+
+Mostly 7 bit, ASCII-laden data. Data are commonly 
+imported and exported as arrays of fastjob strings.
+

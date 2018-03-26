@@ -1,0 +1,9 @@
+.REM Directory documentation. Visit Soft9000.com.
+This is the final resting place for the most up to date
+CELLS manager. Allow you to map both rectangular and 
+hex-based cells over an arbitrary Cartesian viewport.
+
+Like everything else here, these classes have been refined
+over about 10 odd years of software development. Tried 
+and true, but I have released no commercial applications
+to the public to demonstrate these classes in action yet.

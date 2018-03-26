@@ -1,0 +1,15 @@
+.REM Directory documentation. Visit Soft9000.com.
+DOCUMENTATION: Every interesting project needs a place to
+put things before they become official...
+
+In general, this directory contains some very helpful 
+classes. Some that could even be demonstrated by a few 
+interesting neat odd-job drivers (as in 
+../projects/noj_010_EzLog.)
+
+WARNING - While some classes are ancient, the models here 
+are still very much works in progress. As such, they are 
+more prone to refactoring than those located outside of 
+this directory.
+
+
