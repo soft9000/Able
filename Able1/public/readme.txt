@@ -5,8 +5,7 @@ Note that this zip contains the core support library only.
 The examples and demonstration tools described in the 
 introduction are maintained spereately.
 
-
-./Projects were built using various compilers and tool 
+The ./Projects were built using various compilers and tool 
 sets of the day. The list includes:
 
    Microsoft Visual Studio.NET
