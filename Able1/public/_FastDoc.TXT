@@ -1,0 +1,20 @@
+.REM Directory documentation. Visit Soft9000.com.
+
+This is the main include point for the Able Namespace. 
+
+Because platform files are referenced by many of the
+files in the noj folder (e.g. <unix/unix_FileInformation.cpp>),
+this folder should be included in your path. 
+
+You will need to #define a manifest constant for your platform 
+(UNIX, MSDOS, WIN32), as well as to add the "using namespace Able1"
+whenever including <Able1.hpp>
+
+If you want to help out by creating the test cases, that would be 
+a good way to explore this technology, as well as to make a great 
+contribution to this effort.
+
+Thanks, & enjoy!
+
+R.A. Nagy
+Soft9000.com
