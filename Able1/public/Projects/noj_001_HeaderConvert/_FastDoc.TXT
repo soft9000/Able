@@ -1,0 +1,4 @@
+.REM Directory documentation. Visit Soft9000.com.
+Utility: A pipe fitting used to convert any enumerated input
+from old C/C++ header file usage over to modern C++ usage.
+

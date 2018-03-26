@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MailBot01", "MailBot01.vcproj", "{059DA0A7-30DA-45C3-B55D-D83FF636397A}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{059DA0A7-30DA-45C3-B55D-D83FF636397A}.Debug.ActiveCfg = Debug|Win32
+		{059DA0A7-30DA-45C3-B55D-D83FF636397A}.Debug.Build.0 = Debug|Win32
+		{059DA0A7-30DA-45C3-B55D-D83FF636397A}.Release.ActiveCfg = Release|Win32
+		{059DA0A7-30DA-45C3-B55D-D83FF636397A}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
