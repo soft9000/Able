@@ -1,0 +1,77 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "BetterMail"=..\..\LIB\VC6\BetterMail\BetterMail.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name fjsl
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "NOJ_022_POPAMAIL"=.\NOJ_022_POPAMAIL.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name BetterMail
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name fjsl
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name stdnet
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "fjsl"=..\..\lib\vc6\fjsl\fjsl.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "stdnet"=..\..\LIB\VC6\stdnet\stdnet.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+}}}
+
+Package=<3>
+{{{
+}}}
+
+###############################################################################
+

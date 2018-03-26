@@ -1,0 +1,4 @@
+.REM Directory documentation. Visit Soft9000.com.
+Product: Parse / replace a string in a file. Command-line 
+tool (completed).
+

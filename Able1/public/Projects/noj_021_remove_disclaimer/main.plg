@@ -1,0 +1,142 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: fjsl - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPDD.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_MBCS" /D "_LIB" /Fp"Debug/fjsl.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\USR\code\mynoj\FastJob\core\ByteBuffer.cpp"
+"D:\USR\code\mynoj\FastJob\core\CommonObject.cpp"
+"D:\USR\code\mynoj\FastJob\core\DelimiterSet.cpp"
+"D:\USR\code\mynoj\FastJob\core\Directory.cpp"
+"D:\USR\code\mynoj\FastJob\core\File.cpp"
+"D:\USR\code\mynoj\FastJob\core\FilePath.cpp"
+"D:\USR\code\mynoj\FastJob\core\FileSystem.cpp"
+"D:\USR\code\mynoj\FastJob\Projects\noj_020_tspawn\main.cpp"
+"D:\USR\code\mynoj\FastJob\core\Node.cpp"
+"D:\USR\code\mynoj\FastJob\core\NodeFinder.cpp"
+"D:\USR\code\mynoj\FastJob\core\OidController.cpp"
+"D:\USR\code\mynoj\FastJob\core\OidMeta.cpp"
+"D:\USR\code\mynoj\FastJob\core\OidParamQuery.cpp"
+"D:\USR\code\mynoj\FastJob\core\OidParamTest.cpp"
+"D:\USR\code\mynoj\FastJob\core\OidRegistry.cpp"
+"D:\USR\code\mynoj\FastJob\core\OidSender.cpp"
+"D:\USR\code\mynoj\FastJob\core\OidTag.cpp"
+"D:\USR\code\mynoj\FastJob\core\Platform.cpp"
+"D:\USR\code\mynoj\FastJob\core\PortTime.cpp"
+"D:\USR\code\mynoj\FastJob\core\ProgramId.cpp"
+"D:\USR\code\mynoj\FastJob\core\StdDateTime.cpp"
+"D:\USR\code\mynoj\FastJob\core\stdnoj_global.cpp"
+"D:\USR\code\mynoj\FastJob\core\StdOid.cpp"
+"D:\USR\code\mynoj\FastJob\core\StdPath.cpp"
+"D:\USR\code\mynoj\FastJob\core\StdString.cpp"
+"D:\USR\code\mynoj\FastJob\core\StringMatcher.cpp"
+"D:\USR\code\mynoj\FastJob\core\TagValue.cpp"
+"D:\USR\code\mynoj\FastJob\core\Url.cpp"
+"D:\USR\code\mynoj\FastJob\core\Utilities.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPDD.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPDE.tmp" with contents
+[
+/nologo /out:"D:\USR\code\mynoj\FastJob\lib\vc6\fjsl.lib" 
+.\Debug\ByteBuffer.obj
+.\Debug\CommonObject.obj
+.\Debug\DelimiterSet.obj
+.\Debug\Directory.obj
+.\Debug\File.obj
+.\Debug\FilePath.obj
+.\Debug\FileSystem.obj
+.\Debug\main.obj
+.\Debug\Node.obj
+.\Debug\NodeFinder.obj
+.\Debug\OidController.obj
+.\Debug\OidMeta.obj
+.\Debug\OidParamQuery.obj
+.\Debug\OidParamTest.obj
+.\Debug\OidRegistry.obj
+.\Debug\OidSender.obj
+.\Debug\OidTag.obj
+.\Debug\Platform.obj
+.\Debug\PortTime.obj
+.\Debug\ProgramId.obj
+.\Debug\StdDateTime.obj
+.\Debug\stdnoj_global.obj
+.\Debug\StdOid.obj
+.\Debug\StdPath.obj
+.\Debug\StdString.obj
+.\Debug\StringMatcher.obj
+.\Debug\TagValue.obj
+.\Debug\Url.obj
+.\Debug\Utilities.obj
+]
+Creating command line "link.exe -lib @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPDE.tmp"
+<h3>Output Window</h3>
+Compiling...
+ByteBuffer.cpp
+CommonObject.cpp
+DelimiterSet.cpp
+Directory.cpp
+File.cpp
+FilePath.cpp
+FileSystem.cpp
+main.cpp
+Node.cpp
+NodeFinder.cpp
+OidController.cpp
+OidMeta.cpp
+OidParamQuery.cpp
+OidParamTest.cpp
+OidRegistry.cpp
+OidSender.cpp
+OidTag.cpp
+Platform.cpp
+PortTime.cpp
+ProgramId.cpp
+StdDateTime.cpp
+stdnoj_global.cpp
+StdOid.cpp
+d:\usr\code\mynoj\fastjob\core\stdoid.cpp(19) : warning C4305: 'initializing' : truncation from 'const int' to 'const char'
+d:\usr\code\mynoj\fastjob\core\stdoid.cpp(19) : warning C4309: 'initializing' : truncation of constant value
+d:\usr\code\mynoj\fastjob\core\stdoid.cpp(20) : warning C4305: 'initializing' : truncation from 'const int' to 'const char'
+d:\usr\code\mynoj\fastjob\core\stdoid.cpp(20) : warning C4309: 'initializing' : truncation of constant value
+StdPath.cpp
+StdString.cpp
+StringMatcher.cpp
+TagValue.cpp
+Url.cpp
+Utilities.cpp
+Creating library...
+<h3>
+--------------------Configuration: main - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPDF.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/main.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\USR\code\mynoj\FastJob\Projects\noj_021_remove_disclaimer\main.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPDF.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPE0.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/main.pdb" /debug /machine:I386 /out:"Debug/main.exe" /pdbtype:sept 
+.\Debug\main.obj
+..\..\lib\vc6\fjsl.lib
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPE0.tmp"
+<h3>Output Window</h3>
+Compiling...
+main.cpp
+Linking...
+   Creating library Debug/main.lib and object Debug/main.exp
+
+
+
+<h3>Results</h3>
+main.exe - 0 error(s), 4 warning(s)
+</pre>
+</body>
+</html>

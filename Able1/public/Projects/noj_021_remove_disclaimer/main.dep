@@ -1,0 +1,42 @@
+# Microsoft Developer Studio Generated Dependency File, included by main.mak
+
+.\main.cpp : \
+	"..\..\core\array.hpp"\
+	"..\..\core\bigfilesize.hpp"\
+	"..\..\core\bytebuffer.hpp"\
+	"..\..\core\commonobject.hpp"\
+	"..\..\core\comparray.hpp"\
+	"..\..\core\delimiterset.hpp"\
+	"..\..\core\dfo.hpp"\
+	"..\..\core\dfoarray.hpp"\
+	"..\..\core\directory.hpp"\
+	"..\..\core\file.hpp"\
+	"..\..\core\filepath.hpp"\
+	"..\..\core\filesystem.hpp"\
+	"..\..\core\node.hpp"\
+	"..\..\core\nodefinder.hpp"\
+	"..\..\core\nodewalker.hpp"\
+	"..\..\core\objectthunk.hpp"\
+	"..\..\core\oidcontroller.hpp"\
+	"..\..\core\oidlist.hpp"\
+	"..\..\core\oidmeta.hpp"\
+	"..\..\core\oidparamquery.hpp"\
+	"..\..\core\oidparamtest.hpp"\
+	"..\..\core\oidregistry.hpp"\
+	"..\..\core\oidsender.hpp"\
+	"..\..\core\oidtag.hpp"\
+	"..\..\core\platform.hpp"\
+	"..\..\core\porttime.hpp"\
+	"..\..\core\programid.hpp"\
+	"..\..\core\random.hpp"\
+	"..\..\core\recarray.hpp"\
+	"..\..\core\stddatetime.hpp"\
+	"..\..\core\stdoid.hpp"\
+	"..\..\core\stdpath.hpp"\
+	"..\..\core\stdseek.hpp"\
+	"..\..\core\stdstring.hpp"\
+	"..\..\core\tagvalue.hpp"\
+	"..\..\core\url.hpp"\
+	"..\..\core\utilities.hpp"\
+	"..\..\fastjob.hpp"\
+	

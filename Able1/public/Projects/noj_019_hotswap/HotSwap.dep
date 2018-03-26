@@ -1,0 +1,61 @@
+# Microsoft Developer Studio Generated Dependency File, included by HotSwap.mak
+
+.\HotSwap.Cpp : \
+	"..\..\mynoj\stdnoj\stdnoj\noj\array.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\bigfilesize.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\bytebuffer.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\commonobject.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\comparray.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\dfo.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\dfoarray.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\directory.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\file.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\filepath.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\filesystem.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\node.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\nodefinder.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\nodewalker.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\objectthunk.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\platform.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\porttime.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\programid.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\recarray.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\stddatetime.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\stdpath.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\stdseek.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\stdstring.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\url.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\utilities.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\stdnoj.hpp"\
+	".\HotSwap.Hpp"\
+	
+
+.\Main.cpp : \
+	"..\..\mynoj\stdnoj\stdnoj\noj\array.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\bigfilesize.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\bytebuffer.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\commonobject.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\comparray.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\dfo.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\dfoarray.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\directory.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\file.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\filepath.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\filesystem.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\node.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\nodefinder.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\nodewalker.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\objectthunk.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\platform.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\porttime.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\programid.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\recarray.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\stddatetime.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\stdpath.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\stdseek.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\stdstring.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\url.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\noj\utilities.hpp"\
+	"..\..\mynoj\stdnoj\stdnoj\stdnoj.hpp"\
+	".\HotSwap.Hpp"\
+	
