@@ -1,0 +1,6 @@
+.REM Directory documentation. Visit Soft9000.com.
+Production quality classes, as used in The Quote For Today 
+and our News*NET products. While a little rough around the edges,
+they are working none the less. Several changes (like the elimination 
+of the SLAVE request) are forthcomming, but of low priority.
+
