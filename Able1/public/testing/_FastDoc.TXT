@@ -1,0 +1,10 @@
+.REM Directory documentation. Visit Soft9000.com.
+
+Many more test cases need to be created.
+
+Creating and porting the test cases is an ongoing process.
+
+Feel free to help out.
+
+
+

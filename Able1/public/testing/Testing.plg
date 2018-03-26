@@ -1,0 +1,166 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: fjsl - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ProfNagy\LOCALS~1\Temp\RSPAC.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_MBCS" /D "_LIB" /FR"Debug/" /Fp"Debug/fjsl.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\USR\code\Able1\public\core\ByteBuffer.cpp"
+"D:\USR\code\Able1\public\core\CommonObject.cpp"
+"D:\USR\code\Able1\public\core\DelimiterSet.cpp"
+"D:\USR\code\Able1\public\core\Directory.cpp"
+"D:\USR\code\Able1\public\core\DynamicPicketFile.cpp"
+"D:\USR\code\Able1\public\core\ExeLog.cpp"
+"D:\USR\code\Able1\public\core\File.cpp"
+"D:\USR\code\Able1\public\core\FilePath.cpp"
+"D:\USR\code\Able1\public\core\FileSystem.cpp"
+"D:\USR\code\Able1\public\core\JulianLog.cpp"
+"D:\USR\code\Able1\public\core\Node.cpp"
+"D:\USR\code\Able1\public\core\NodeFinder.cpp"
+"D:\USR\code\Able1\public\core\OidController.cpp"
+"D:\USR\code\Able1\public\core\OidMeta.cpp"
+"D:\USR\code\Able1\public\core\OidParamQuery.cpp"
+"D:\USR\code\Able1\public\core\OidParamTest.cpp"
+"D:\USR\code\Able1\public\core\OidRegistry.cpp"
+"D:\USR\code\Able1\public\core\OidSender.cpp"
+"D:\USR\code\Able1\public\core\OidTag.cpp"
+"D:\USR\code\Able1\public\core\PicketFile.cpp"
+"D:\USR\code\Able1\public\core\Platform.cpp"
+"D:\USR\code\Able1\public\core\PortTime.cpp"
+"D:\USR\code\Able1\public\core\ProgramId.cpp"
+"D:\USR\code\Able1\public\core\Random.cpp"
+"D:\USR\code\Able1\public\core\StdDateTime.cpp"
+"D:\USR\code\Able1\public\core\stdnoj_global.cpp"
+"D:\USR\code\Able1\public\core\StdOid.cpp"
+"D:\USR\code\Able1\public\core\StdPath.cpp"
+"D:\USR\code\Able1\public\core\StringMatcher.cpp"
+"D:\USR\code\Able1\public\core\TagValue.cpp"
+"D:\USR\code\Able1\public\core\TimeFormatter.cpp"
+"D:\USR\code\Able1\public\core\Url.cpp"
+"D:\USR\code\Able1\public\core\Utilities.cpp"
+"D:\USR\code\Able1\public\core\XmIni.cpp"
+"D:\USR\code\Able1\public\core\Zstr.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ProfNagy\LOCALS~1\Temp\RSPAC.tmp" 
+Creating temporary file "C:\DOCUME~1\ProfNagy\LOCALS~1\Temp\RSPAD.tmp" with contents
+[
+/nologo /out:"D:\USR\code\Able1\public\lib\vc6\fjsl.lib" 
+.\Debug\ByteBuffer.obj
+.\Debug\CommonObject.obj
+.\Debug\DelimiterSet.obj
+.\Debug\Directory.obj
+.\Debug\DynamicPicketFile.obj
+.\Debug\ExeLog.obj
+.\Debug\File.obj
+.\Debug\FilePath.obj
+.\Debug\FileSystem.obj
+.\Debug\JulianLog.obj
+.\Debug\Node.obj
+.\Debug\NodeFinder.obj
+.\Debug\OidController.obj
+.\Debug\OidMeta.obj
+.\Debug\OidParamQuery.obj
+.\Debug\OidParamTest.obj
+.\Debug\OidRegistry.obj
+.\Debug\OidSender.obj
+.\Debug\OidTag.obj
+.\Debug\PicketFile.obj
+.\Debug\Platform.obj
+.\Debug\PortTime.obj
+.\Debug\ProgramId.obj
+.\Debug\Random.obj
+.\Debug\StdDateTime.obj
+.\Debug\stdnoj_global.obj
+.\Debug\StdOid.obj
+.\Debug\StdPath.obj
+.\Debug\StringMatcher.obj
+.\Debug\TagValue.obj
+.\Debug\TimeFormatter.obj
+.\Debug\Url.obj
+.\Debug\Utilities.obj
+.\Debug\XmIni.obj
+.\Debug\Zstr.obj
+]
+Creating command line "link.exe -lib @C:\DOCUME~1\ProfNagy\LOCALS~1\Temp\RSPAD.tmp"
+<h3>Output Window</h3>
+Compiling...
+ByteBuffer.cpp
+CommonObject.cpp
+DelimiterSet.cpp
+Directory.cpp
+DynamicPicketFile.cpp
+ExeLog.cpp
+File.cpp
+FilePath.cpp
+FileSystem.cpp
+JulianLog.cpp
+Node.cpp
+NodeFinder.cpp
+OidController.cpp
+OidMeta.cpp
+OidParamQuery.cpp
+OidParamTest.cpp
+OidRegistry.cpp
+OidSender.cpp
+OidTag.cpp
+PicketFile.cpp
+Platform.cpp
+PortTime.cpp
+ProgramId.cpp
+Random.cpp
+StdDateTime.cpp
+stdnoj_global.cpp
+StdOid.cpp
+StdPath.cpp
+StringMatcher.cpp
+TagValue.cpp
+TimeFormatter.cpp
+Url.cpp
+Utilities.cpp
+XmIni.cpp
+Zstr.cpp
+Creating library...
+<h3>
+--------------------Configuration: Testing - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ProfNagy\LOCALS~1\Temp\RSPAE.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /FR"Debug/" /Fp"Debug/Testing.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\USR\code\Able1\public\Extra\Searching\DosMatch.Cpp"
+"D:\USR\code\Able1\public\testing\main.cpp"
+"D:\USR\code\Able1\public\testing\TestCases.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ProfNagy\LOCALS~1\Temp\RSPAE.tmp" 
+Creating temporary file "C:\DOCUME~1\ProfNagy\LOCALS~1\Temp\RSPAF.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/Testing.pdb" /debug /machine:I386 /out:"Debug/Testing.exe" /pdbtype:sept 
+.\Debug\DosMatch.obj
+.\Debug\main.obj
+.\Debug\TestCases.obj
+..\lib\vc6\fjsl.lib
+]
+Creating command line "link.exe @C:\DOCUME~1\ProfNagy\LOCALS~1\Temp\RSPAF.tmp"
+<h3>Output Window</h3>
+Compiling...
+DosMatch.Cpp
+d:\usr\code\able1\public\extra\searching\dosmatch.cpp(60) : warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+main.cpp
+TestCases.cpp
+D:\USR\code\Able1\public\testing\TestCases.cpp(1015) : warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/Testing.bsc"  .\Debug\DosMatch.sbr .\Debug\main.sbr .\Debug\TestCases.sbr"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+Testing.exe - 0 error(s), 2 warning(s)
+</pre>
+</body>
+</html>
