@@ -1,3 +1,5 @@
+This is a major update to the STDNOJ Namespace.
+
 Mostly for C++98 on Windows, but also has some significant 
 core-updates for POSIX.
 
