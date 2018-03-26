@@ -1,0 +1,15 @@
+.REM Directory documentation. Visit Soft9000.com.
+This directory contains the core of the Standatd Noj library. 
+These objects are also the most usefull, as well as the most inter-related. 
+As such, they all need to be included every time you tackle a NOJ.
+
+You will need to define your platform (WIN32, UNIX, or MSDOS) as
+several source files require platform bindings. Production quality 
+and complete for WIN32, but a few features are not implemented 
+for UNIX and MSDOS. 
+
+Feel free to provide and share your implementations with the rest of us!
+
+If you want to help out by creating the test cases, that would be a good
+way to master this technology, as well as to make a great contribution to 
+this effort.
